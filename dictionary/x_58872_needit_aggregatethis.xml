@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="AggregateThis" max_length="40" name="x_58872_needit_aggregatethis" type="collection">
+        <element label="data" max_length="40" name="data" type="string"/>
+        <element label="wowie" max_length="4000" name="wowie" type="integer"/>
+    </element>
+</database>
